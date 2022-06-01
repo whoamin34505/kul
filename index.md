@@ -25,12 +25,11 @@
 		<p class="text"><b>Вы бегаете в КБ за чоколаткой под дождем в 21:55?</b><br>Да - <input type="radio" name="name8" id="n1" value="1"><br> Нет - <input name="name8" type="radio" id="n2" value="0"> 
 			<p class="text"><b>Вы сдаёте литературу на ОГЫ?</b><br>Да - <input type="radio" name="name9" id="n1" value="1"><br> Нет - <input name="name9" type="radio" id="n2" value="0"> </p>
 			<p class="text"><b>Вы жжёте бумажку под "Чёрный мерин"?</b><br>Да - <input type="radio" name="name10" id="n1" value="1"><br> Нет - <input name="name10" type="radio" id="n2" value="0"> </p>
-	 <button class="btn1">Узнать результат</button> 
+	 <center><button class="btn1">Узнать результат</button> </center>
   <br>
   <center>
-	  <div class="text">
-		  	<div class="out1" id="out"></div>
-</div>
+<div class="text">
+<div class="out1" id="out"></div>
 </div>
   </center>
 <script src="main.js"></script>	
